@@ -1,10 +1,10 @@
-# Prospectivity_model
+# Prospectivity Model
 ## data analytics model for mineral prospectivity
 
 # ------- CURRENT STATE --------
 - This project is very much a work-in-progress
 - I have loaded data, cleaned, and started exploratory data analysis
-- The end goals will likely continue to evolve as I dig deeper into the data
+- The end goals will likely evolve as I dig deeper into the data
 
 
 # -------- GUIDING QUESTIONS --------
@@ -20,5 +20,6 @@
 - First analysis: calibration - do geochemical data predict known gold mine locations?
 	- Transform data to lognormal distributions
 	- Exploratory data analysis - look for correlations and choose elemental data to move forward with
+	- Multivariate correlations and cluster analysis - are there suites of elements that are useful in gold prediction? If so, do these have spatial continuity?
 
 
