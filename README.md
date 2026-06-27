@@ -8,18 +8,20 @@
 
 
 # -------- GUIDING QUESTIONS --------
-- Are there 2D correlations between gold and other elements? If so, are these consistent across geochemical datasets?
+- Is there undiscovered gold in Idaho?
 - Can I predict location of known gold mines based on geochemical data? Just gold? What are the pathfinder elements?
+- Are there 2D correlations between gold and other elements? If so, are these consistent across geochemical datasets?
 - Do geochemical correlations have spatial continuity? If so, at what scale?
 - Can I use my structural, geochemical, and geochronological knowledge of the Idaho batholith to better understand elemental trends?
 
 
 # -------- GOALS AND APPROACH --------
-## Create model(s) to identify areas of potential gold prospectivity in Idaho
+## Create model(s) to identify areas of potential gold prospectivity in Idaho using publicly available data.
 - Ingest and clean data from Idaho state geologic survey and USGS
 - First analysis: calibration - do geochemical data predict known gold mine locations?
 	- Transform data to lognormal distributions
 	- Exploratory data analysis - look for correlations and choose elemental data to move forward with
 	- Multivariate correlations and cluster analysis - are there suites of elements that are useful in gold prediction? If so, do these have spatial continuity?
+	- Integrate other spatial data (gravity and magnetics)
 
 
